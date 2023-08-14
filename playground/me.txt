@@ -1,5 +1,0 @@
-{{#user}}
-Name: Prakhar Pandey
-Skills: HTML, CSS, TailwindCSS, JS, React.js
-Email: prakharpandey4work@gmail.com
-{{/user}}
